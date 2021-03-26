@@ -43,3 +43,5 @@ if(deformation<100)
 function draw() {
   background('red');  
   drawSprites();
+
+}
